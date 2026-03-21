@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hey, I’m André — QA Engineer who’s all about making software work right.<br><br>I do manual and automated testing, mainly with Cypress and Postman. Lately, I’ve been diving into k6 for load testing and performance.<br><br>I’m building QA processes from scratch and working closely with agile teams to catch bugs early and deliver solid apps.<br><br>I believe good testing comes from really understanding how stuff works — not just clicking around.<br><br>Here I share test automation projects, scripts, and anything that helps me level up in quality assurance.<br>
+QA Engineer with hands-on experience in software testing, combining manual and automated approaches to ensure product quality.
+
+Experienced in test automation using Cypress (JavaScript), API testing with Postman, and data validation with SQL (PostgreSQL). Strong background in functional, regression, and exploratory testing within Agile (Scrum) teams.
+
+Skilled in analyzing requirements, creating test scenarios, and identifying critical issues early in the development cycle.
+
+Continuously improving my skills in test automation and modern QA practices.<br>
 
 
 ## 🌐 Socials:
