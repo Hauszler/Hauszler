@@ -1,11 +1,6 @@
 # 💫 About Me:
-QA Engineer with hands-on experience in software testing, combining manual and automated approaches to ensure product quality.
-
-Experienced in test automation using Cypress (JavaScript), API testing with Postman, and data validation with SQL (PostgreSQL). Strong background in functional, regression, and exploratory testing within Agile (Scrum) teams.
-
-Skilled in analyzing requirements, creating test scenarios, and identifying critical issues early in the development cycle.
-
-Continuously improving my skills in test automation and modern QA practices.<br>
+QA Engineer with over 1 year of experience working end-to-end in software quality within agile environments. Experienced in E2E testing, API validation, and data validation, ensuring the stability of critical flows and reducing production issues. Analytical and collaborative profile, partnering closely with product and development teams to improve requirements, usability, and overall delivery reliability.
+<br>
 
 
 ## 🌐 Socials:
